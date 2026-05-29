@@ -1,0 +1,14 @@
+node_modules/
+.env
+data/*.json
+uploads/apk/*.apk
+uploads/apk/build_*
+uploads/proof/*
+uploads/deploy/*
+uploads/apk-analyzer/*
+uploads/images/*
+uploads/icons/*
+public/deployments/*/
+*.log
+npm-debug.log*
+.DS_Store
